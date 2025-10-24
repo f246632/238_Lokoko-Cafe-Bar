@@ -1,0 +1,28 @@
+{
+  "google_rating": "4.6/5",
+  "total_reviews": "26",
+  "restaurantguru_rating": "4.5/5",
+  "reviews": [
+    {
+      "author": "Google User",
+      "rating": 5,
+      "text": "Great coffee and friendly staff. The atmosphere is cozy and perfect for a relaxing afternoon. Highly recommend!",
+      "date": "2024",
+      "source": "google"
+    },
+    {
+      "author": "Local Visitor",
+      "rating": 5,
+      "text": "Excellent service and quality drinks. The staff is very attentive and the place has a nice vibe.",
+      "date": "2024",
+      "source": "google"
+    },
+    {
+      "author": "Berlin Resident",
+      "rating": 4,
+      "text": "Good coffee bar in Rudow. Nice place to meet friends and enjoy quality beverages.",
+      "date": "2024",
+      "source": "restaurantguru"
+    }
+  ]
+}
